@@ -4,7 +4,7 @@ import listasimplee.Nodo;
 
 /**
  *
- * @author Evelyn
+ * @author user
  */
 public class Principal extends javax.swing.JFrame {
   
