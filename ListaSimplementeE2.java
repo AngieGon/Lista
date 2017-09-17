@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Evelyn
+ * @author user
  */
 public class ListaSimpleE {
 
